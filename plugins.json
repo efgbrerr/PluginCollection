@@ -341,6 +341,10 @@
 		        "desc": "Get tab prefixes!",
 		        "jarName": "sTabList.jar",
 		        "configName": "sTabList"
-		}
+		},
+		        "name": "NameTagEdit"
+		        "desc": "&4Tab prefixes edits"
+		        "jarName": "NametagEdit.jar"
+		        "configName": "NameTagEdit"
 	]
 }
