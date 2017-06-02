@@ -346,5 +346,27 @@
 		        "desc": "&4Tab prefixes edits"
 		        "jarName": "NametagEdit.jar"
 		        "configName": "NameTagEdit"
+		},
+		        "name": "TaigaLib"
+		        "desc": "Dependency for PowerPerms"
+		        "jarName": "PowerPerms_v1.2.1.jar"
+		        "configName": "PowerPerms"
+		        "requiredRank": "4"
+		        
+ 	        },
+		        "name": "Per World Inventory"
+		        "desc": "Inventorys for different worlds"
+		        "jarName": "perworldinventory-1.10.0.jar"
+		        "configName": "PerWorldInventory"
+		        "requiredRank": "4"
+		},
+		        "name": "TaigaLib"
+		        "desc": "PerWorldInventory dependency plugin."
+		        "jarName": "TaigaLib_v2.0.jar"
+		        "configName": "TaigaLib"
+		        "requiredRank": "4"
 	]
 }
+}
+}
+
